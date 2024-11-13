@@ -71,7 +71,7 @@ I’m a full-stack developer, who has a full-time career out of my skills. Full-
 
 ## 📫 How to Reach Me
 - Email: [joshua226841@gmail.com](mailto:joshua226841@gmail.com)
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Tapiwa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tapiwajoshua)](www.linkedin.com/in/tapiwajoshua)
+- LinkedIn: [Joshua Mandanda](https://www.linkedin.com/in/TapiwaJoshua)
 ----
 
 <!--
