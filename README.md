@@ -63,15 +63,9 @@ I’m a full-stack developer, who has a full-time career out of my skills. Full-
 
 <br/>  
 
+## 📈 GitHub Stats
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TapiwaJoshua&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TapiwaJoshua&hide_border=true&layout=compact" align="left" style="width: 100%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TapiwaJoshua&layout=compact&theme=radical)
 
 </td></tr></table> 
 
